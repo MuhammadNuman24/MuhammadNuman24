@@ -3,10 +3,7 @@
 <h1 align="center">Hello 👋, I'm Muhammad Numan</h1>
 <h3 align="center">A passionate learner and developer from Vehari(Pakistan)</h3><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rumam786&label=Profile%20views&color=0e75b6&style=flat" alt="rumam786" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ruman" target="blank"><img src="https://img.shields.io/twitter/follow/ruman?logo=twitter&style=for-the-badge" alt="ruman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/numanrazzaq24" target="blank"><img src="https://img.shields.io/twitter/follow/ruman?logo=twitter&style=for-the-badge" alt="numan" /></a> </p>
 
 - 🔭 I’m currently working on **Java,Spring Boot,Vue.js and Javascript**
 
@@ -20,7 +17,8 @@
 
 - 📄 Know about my experiences (Vue.Js,Html,Html5,CSS,Tailwind,Bootstrap, Angular,Java,Spring Boot And MYSQL PostgressSQL)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **Whenever I need some fun I go for reading some funny books**
+- Hobbies **Solving Problems is my hobby. Whenever I free from university and from other work I find a new way of easiness in my life.**
 
 <h3 align="left">Connect and Follow me:</h3>
 <p align="left">
